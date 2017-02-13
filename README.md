@@ -3,7 +3,6 @@ gdiannarbor.com
 
 Website for Girl Develop It Ann Arbor http://gdiannarbor.com
 
-
 ## Getting Setup
 
 1. Clone this repo `git clone git@github.com:gdiannarbor/gdiannarbor.com.git`
